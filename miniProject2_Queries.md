@@ -1,13 +1,14 @@
 # **📊 USDT Competitive Intelligence Dashboard**
 
 # **Overview** #
-## A cross-token intelligence dashboard comparing USDT against USDC, DAI, and PYUSD across volume trends, sector penetration, user profiles, and retention behavior. This dashboard answers one question: **_Where is USDT winning, and where is it losing ground?_**
+A cross-token intelligence dashboard comparing USDT against USDC, DAI, and PYUSD across volume trends, sector penetration, user profiles, and retention behavior. 
 
-## All charts are interactive, ensuring dynamic and real-time competitive insights.
+This dashboard answers one question: **_Where is USDT winning, and where is it losing ground?_**
+All charts are interactive, ensuring dynamic and real-time competitive insights.
 
-# USDT 60-Day Headlines
-## Use this for: Counters (Volume, Tx Count, Active Users)
-## This query calculates USDT’s headline activity metrics over the past 60 days, including total volume, transaction count, and the number of unique active wallets.
+## USDT 60-Day Headlines
+Use this for: Counters (Volume, Tx Count, Active Users)
+This query calculates USDT’s headline activity metrics over the past 60 days, including total volume, transaction count, and the number of unique active wallets.
 ```
 SELECT 
     -- Counter 1: Volume in Billions 
