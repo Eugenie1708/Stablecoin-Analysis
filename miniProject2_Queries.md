@@ -1,4 +1,9 @@
 # 📊 USDT Competitive Intelligence Dashboard
+## Overview
+A cross-token intelligence dashboard comparing USDT against USDC, DAI, and PYUSD across volume trends, sector penetration, user profiles, and retention behavior. 
+
+This dashboard answers one question: **_Where is USDT winning, and where is it losing ground?_**
+All charts are interactive, ensuring dynamic and real-time competitive insights.
 
 ## Purpose & Business Questions
 
@@ -11,12 +16,6 @@ This dashboard addresses the following key business questions:
 5. **Volume Trends:** How do daily transfer volumes compare across tokens over time?
 
 ---
-
-## Overview
-A cross-token intelligence dashboard comparing USDT against USDC, DAI, and PYUSD across volume trends, sector penetration, user profiles, and retention behavior. 
-
-This dashboard answers one question: **_Where is USDT winning, and where is it losing ground?_**
-All charts are interactive, ensuring dynamic and real-time competitive insights.
 
 ## USDT 60-Day Headlines
 Use this for: Counters (Volume, Tx Count, Active Users)
