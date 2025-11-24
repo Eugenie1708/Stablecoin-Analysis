@@ -1,4 +1,5 @@
 # 📊 USDT Competitive Intelligence Dashboard
+**[View Dashboard](https://dune.com/eugenielai_team_3740/badm-554-group2-miniproject2)**
 ## Overview
 A cross-token intelligence dashboard comparing USDT against USDC, DAI, and PYUSD across volume trends, sector penetration, user profiles, and retention behavior. 
 
