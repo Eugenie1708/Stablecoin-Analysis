@@ -1,5 +1,17 @@
 # 📊 USDT Competitive Intelligence Dashboard
 
+## Purpose & Business Questions
+
+This dashboard addresses the following key business questions:
+
+1. **Market Share & Growth:** Where is USDT winning and where is it losing ground vs. USDC, DAI, and PYUSD?
+2. **Sector Penetration:** Which blockchain sectors (DeFi, CEX, Bridges, MEV, P2P) drive inflows for each token?
+3. **User Composition:** What is the mix of retail, trader, and whale volume for USDT vs. competitors?
+4. **Retention & Stickiness:** How loyal are users? What % remain active for 30+ days?
+5. **Volume Trends:** How do daily transfer volumes compare across tokens over time?
+
+---
+
 ## Overview
 A cross-token intelligence dashboard comparing USDT against USDC, DAI, and PYUSD across volume trends, sector penetration, user profiles, and retention behavior. 
 
